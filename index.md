@@ -38,7 +38,7 @@ Researcher in the areas of Social Robots and Affective Computing.
   - Control Automation and Robotics: Master dissertation -> Development of a mirroring emotion system that allows online facial imitation and an emotion recognition system that is able to recognize different emotions in real time with a humanoid robotic platform and the project [Robótica-Autismo](https://robotica-autismo.dei.uminho.pt/).
 <br><br>
   
-  ## 🏆 Accomplishments
+## 🏆 Accomplishments
 
 **Best Student Paper Award** @ [ICUMT](http://www.wikicfp.com/cfp/program?id=1500) _(Oct 2016)_ <br>
 Best Student Paper Award of the 2016 8th International Congress on Ultra Modern Telecommunications and Control Systems and Workshops.
