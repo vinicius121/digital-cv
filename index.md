@@ -4,7 +4,7 @@ _PhD Student based in Braga, Portugal_ <br>
 
 [Email](mailto:vinicio121@hotmail.com) / [LinkedIn](https://www.linkedin.com/in/vinicius-silva-816119b7/) / [GitHub](https://github.com/vinicius121/) / [ResearchGate](https://www.researchgate.net/profile/Vinicius-Silva) 
 
-## 👩🏼‍💻 Technical Experience
+## 👨‍💻 Technical Experience
 
 **Researcher and PhD Student** @ [Universidade do Minho](https://www.uminho.pt/PT/) _(Mar 2017 - Present)_ <br>
 Researcher in the areas of Social Robots and Affective Computing.
