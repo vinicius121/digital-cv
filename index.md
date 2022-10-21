@@ -51,6 +51,6 @@ Best Paper Award of the 2015 International Conference of Computer Science and En
 ## 💬 Languages
 
 **English**: C1 <br>
-**Spanich**: A2 <br>
+**Spanish**: A2 <br>
 **German**: A1
 <br><br>
