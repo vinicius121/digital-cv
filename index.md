@@ -19,7 +19,7 @@ Researcher in the areas of Social Robots and Affective Computing.
 
 **Summer School Invited Professor** @ [Wroclaw University of Economics](https://www.ue.wroc.pl/en/) _(Ago 2019 - Set 2019)_ <br>
   -	Workshop on how to develop a web app considering the typical machine learning pipeline using computer vision and deep learning techniques to analyse in real-time the facial expressions of a user.
-  -	@ [Emotion WebApp](https://vinicius121.github.io/emotion-recognition-wroclaw/)
+  - 💻Try it!🖱️	@ [Emotion WebApp](https://vinicius121.github.io/emotion-recognition-wroclaw/)
 <br><br>
 
 **Invited Researcher** @ [Dipartimento di Informatica, Bioingegneria, Robotica e Ingegneria dei Sistemi,  University of Degli Studi di Genova, Italy](https://www.dibris.unige.it/) _(May 2019 - Jun 2019)_ <br>
