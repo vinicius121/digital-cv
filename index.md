@@ -1,14 +1,14 @@
 # Vinícius Silva
 
-_PhD Student based in Braga, Portugal_ <br>
+_PhD in Electronic and Computer Engineering based in Braga, Portugal_ <br>
 
 [Email](mailto:vinicio121@hotmail.com) / [LinkedIn](https://www.linkedin.com/in/vinicius-silva-816119b7/) / [GitHub](https://github.com/vinicius121/) / [ResearchGate](https://www.researchgate.net/profile/Vinicius-Silva) 
 
 ## 👨‍💻 Technical Experience
 
-**Researcher and PhD Student** @ [Universidade do Minho](https://www.uminho.pt/PT/) _(Mar 2017 - Present)_ <br>
+**Researcher and Invited Assistant Professor** @ [Universidade do Minho](https://www.uminho.pt/PT/) _(Mar 2017 - Present)_ <br>
 Researcher in the areas of Social Robots and Affective Computing.
-  - PhD Researcher of Electronics and Computer Engineering (Nov of 2017 - now)
+  - Researcher at Centre Algoritmi in Human Robot Interaction, Affective Computing, and Social Robots
   - DEUS EX MACHINA PROJECT (HUMANS AND TECHNOLOGY SIMBIOSIS FOR SOCIETAL EFFICIENCY GAINS) - A project in partnership with Fraunhofer Portugal to researching solutions for patient empowerment. (March to November 2017)
   - **_Technologies used:_** Python, Matlab, C# .NET, Java, KERAS, Tensorflow.
 <br><br>
@@ -32,6 +32,10 @@ Researcher in the areas of Social Robots and Affective Computing.
 
 ## 🏫 Education and Training
 
+**PhD in Electronic and Computer Engineering** @ [Universidade do Minho](https://www.uminho.pt/PT/) _(Set 2017 - Jun 2023)_ <br>
+Researcher in the areas of Social Robots and Affective Computing. Development and application of interactive and assistive technologies to support and promote new adaptive teaching/learning approaches for children with ASD.
+<br><br>
+
 **Integrated Master Degree in Industrial Electronics and Computers Engineering** @ [Universidade do Minho](https://www.uminho.pt/PT/) _(Set 2011 - Jul 2016)_ <br>
 Researcher in the areas of Social Robots and Affective Computing.
   - Power Electronics
@@ -39,6 +43,10 @@ Researcher in the areas of Social Robots and Affective Computing.
 <br><br>
   
 ## 🏆 Accomplishments
+
+**Best Abstract Award** @ [4th Doctoral Congress in Engineering](https://paginas.fe.up.pt/~dce/2021/) _(Jun 2021)_ <br>
+“Doctoral Thesis”. (2021) 4th Doctoral Congress in Engineering, in Simpósio de Engenharia Eletrónica e Computadores. Porto, Portugal..
+<br><br>
 
 **Best Student Paper Award** @ [ICUMT](http://www.wikicfp.com/cfp/program?id=1500) _(Oct 2016)_ <br>
 Best Student Paper Award of the 2016 8th International Congress on Ultra Modern Telecommunications and Control Systems and Workshops.
