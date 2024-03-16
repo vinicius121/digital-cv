@@ -6,6 +6,11 @@ _PhD in Electronic and Computer Engineering based in Braga, Portugal_ <br>
 
 ## 👨‍💻 Technical Experience
 
+**Researcher Engineer** @ [INL](https://www.inl.int/) _(Jan 2024 - Present)_ <br>
+Researcher - Data science in optical images for quality control.
+  - **_Technologies used:_** Python, Matlab, C# .NET, KERAS, Tensorflow, Halcon, UR Robotics.
+<br><br>
+
 **Researcher and Invited Assistant Professor** @ [Universidade do Minho](https://www.uminho.pt/PT/) _(Mar 2017 - Present)_ <br>
 Researcher in the areas of Social Robots and Affective Computing.
   - Researcher at Centre Algoritmi in Human Robot Interaction, Affective Computing, and Social Robots
