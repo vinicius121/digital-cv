@@ -2,8 +2,10 @@
 
 _PhD in Electronic and Computer Engineering based in Braga, Portugal_ <br>
 
-[Email](mailto:vinicio121@hotmail.com) / [LinkedIn](https://www.linkedin.com/in/vinicius-silva-816119b7/) / [GitHub](https://github.com/vinicius121/) / [ResearchGate](https://www.researchgate.net/profile/Vinicius-Silva) 
-
+[![Email][email-shield]][email-url]
+[![GitHub][github-shield]][github-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
+[![ResearchGate][researchgate-shield]][researchgate-url]
 ## 👨‍💻 Technical Experience
 
 **Researcher Engineer** @ [INL](https://www.inl.int/) _(Jan 2024 - Present)_ <br>
@@ -67,3 +69,14 @@ Best Paper Award of the 2015 International Conference of Computer Science and En
 **Spanish**: A2 <br>
 **German**: A1
 <br><br>
+
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[email-shield]: https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white
+[email-url]: mailto:vinicio121@hotmail.com
+[github-shield]: https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white
+[github-url]: https://github.com/vinicius121/
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: https://www.linkedin.com/in/vinicius-silva-816119b7/
+[researchgate-shield]: https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white
+[researchgate-url]: https://www.researchgate.net/profile/Vinicius-Silva
